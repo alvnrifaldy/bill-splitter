@@ -35,7 +35,8 @@ Berikut contoh data nota yang berhasil diekstrak oleh aplikasi:
 
 ## Video Demo App
 
-Video demo bisa dilihat di link google drive berikut [text](https://drive.google.com/file/d/1JgVAyOL1LKjRvvQPwfb22YW1js-QXskl/view?usp=drive_link)
+Video demo bisa dilihat di link google drive berikut [https://drive.google.com/file/d/1JgVAyOL1LKjRvvQPwfb22YW1js-QXskl/view?usp=drive_link](https://drive.google.com/file/d/1JgVAyOL1LKjRvvQPwfb22YW1js-QXskl/view?usp=drive_link)
+
 
 
 
