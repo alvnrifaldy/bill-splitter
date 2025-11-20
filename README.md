@@ -19,7 +19,7 @@ streamlit run app.py
 Berikut contoh data nota yang berhasil diekstrak oleh aplikasi:
 
 ![receipt-darikopi](figs/receipt_darikopi.png)
-![receipt-darikopi](figs/receipt_tigarasa.png)
+![receipt-tigarasa](figs/receipt_tigarasa.png)
 
 ## Evaluasi
 
@@ -36,4 +36,5 @@ Berikut contoh data nota yang berhasil diekstrak oleh aplikasi:
 ## Video Demo App
 
 Video demo bisa dilihat di link google drive berikut [text](https://drive.google.com/file/d/1JgVAyOL1LKjRvvQPwfb22YW1js-QXskl/view?usp=drive_link)
+
 
